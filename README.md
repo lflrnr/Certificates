@@ -5,14 +5,12 @@ Coursera
   1. Agile with Atlassian Jira
   https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
 
-
 edX
   1. Microsoft DEV330x - Introduction to Python: Creating Scalable, Robust, Interactive Code (audited)
   2. Microsoft DEV262x - Logic and Computational Thinking
   3. Microsoft DEV274x - Introduction to Python: Fundamentals
   4. Microsoft DEV236x - Introduction to Python: Absolute Beginner
   https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/
-
 
 Lynda
   1. Product Management: 
@@ -30,5 +28,6 @@ Lynda
   4. Tableau Essential Training (Course)
   5. Master SQL for Data Science (Learning Path)
   6. Master Advanced Excel Data & Analytics Skills (Learning Path)
+  
   https://www.lynda.com/AllCertificates/User/1995144729
   

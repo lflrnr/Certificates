@@ -5,7 +5,7 @@ Coursera - https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
   1. Agile with Atlassian Jira
 
 edX - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/
-  1. Microsoft DEV330x - Introduction to Python: Creating Scalable, Robust, Interactive Code (audited, code posted in another repo)
+  1. Microsoft DEV330x - Introduction to Python: Creating Scalable, Robust, Interactive Code (audited with code posted in another repo)
   2. Microsoft DEV262x - Logic and Computational Thinking
   3. Microsoft DEV274x - Introduction to Python: Fundamentals
   4. Microsoft DEV236x - Introduction to Python: Absolute Beginner

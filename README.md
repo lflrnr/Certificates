@@ -1,5 +1,5 @@
 # Certificates
-Certificates completed with Coursera, edX, &amp; Lynda.  The certifcate titles (or general groupings) are listed below with direct links to certificates hosted on course provider sites.
+Certificates completed with Coursera, edX, &amp; Lynda.  The certificate titles (or general groupings) are listed below with direct links to certificates hosted on course provider sites.
 
 Coursera - https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
   1. Agile with Atlassian Jira

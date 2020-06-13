@@ -5,10 +5,11 @@ Coursera - https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
   1. Agile with Atlassian Jira
 
 edX - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/
-  1. Microsoft DEV330x - Introduction to Python: Creating Scalable, Robust, Interactive Code (audited with code posted in another repo)
-  2. Microsoft DEV262x - Logic and Computational Thinking
-  3. Microsoft DEV274x - Introduction to Python: Fundamentals
-  4. Microsoft DEV236x - Introduction to Python: Absolute Beginner
+  1. Microsoft DAT207x: Analyzing and Visualizing Data with Power BI
+  2. Microsoft DEV330x: Introduction to Python: Creating Scalable, Robust, Interactive Code (audited with code posted in another repository)
+  3. Microsoft DEV262x: Logic and Computational Thinking
+  4. Microsoft DEV274x: Introduction to Python: Fundamentals
+  5. Microsoft DEV236x: Introduction to Python: Absolute Beginner
 
 Lynda - https://www.lynda.com/AllCertificates/User/1995144729
   1. Product Management: 

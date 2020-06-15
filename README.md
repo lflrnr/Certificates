@@ -11,6 +11,9 @@ edX - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43
   4. Microsoft DEV274x: Introduction to Python: Fundamentals
   5. Microsoft DEV236x: Introduction to Python: Absolute Beginner
 
+Google Analytics Academy - https://analytics.google.com/analytics/academy/certificate/M7KHdkxoQ1umxzN8ljViTA
+  1. Introduction to Data Studio (Google Data Studio)
+
 Lynda - https://www.lynda.com/AllCertificates/User/1995144729
   1. Product Management: 
      - Product Management First Steps

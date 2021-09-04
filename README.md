@@ -5,7 +5,7 @@ Coursera
   1. Applied Data Science with Python (5 courses)   @    https://www.coursera.org/account/accomplishments/specialization/35443KBANTXA
   2. Statistics with Python (3 courses)   @    https://www.coursera.org/account/accomplishments/specialization/GTJUS2C3KPUZ
   3. Python 3 Programming (5 courses)   @   https://www.coursera.org/account/accomplishments/specialization/2Y8XEZGEQJAD
-  4. Python for Everbody Specialization (5 courses)   @  https://www.coursera.org/account/accomplishments/specialization/certificate/FSPTXMJGGFAF
+  4. Python for Everbody (5 courses) @ https://www.coursera.org/account/accomplishments/specialization/certificate/FSPTXMJGGFAF
   5. Agile with Atlassian Jira    @    https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
 
 edX - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/

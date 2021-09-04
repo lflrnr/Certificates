@@ -1,12 +1,16 @@
 # Certificates
 Certificates completed with Coursera, edX, Google, Lynda.  The certificate titles (or general groupings) are listed below with direct links to certificates hosted on course provider sites.
 
-Coursera - https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
-  1. Agile with Atlassian Jira
+Coursera
+  1. Applied Data Science with Python (5 courses)   @    https://www.coursera.org/account/accomplishments/specialization/35443KBANTXA
+  2. Statistics with Python (3 courses)   @    https://www.coursera.org/account/accomplishments/specialization/GTJUS2C3KPUZ
+  3. Python 3 Programming (5 courses)   @   https://www.coursera.org/account/accomplishments/specialization/2Y8XEZGEQJAD
+  4. Python for Everbody Specialization (5 courses)   @  https://www.coursera.org/account/accomplishments/specialization/certificate/FSPTXMJGGFAF
+  5. Agile with Atlassian Jira    @    https://coursera.org/share/94ec188ddab338df300b1ce4def7da09
 
 edX - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/
   1. Microsoft DAT207x: Analyzing and Visualizing Data with Power BI
-  2. Microsoft DEV330x: Introduction to Python: Creating Scalable, Robust, Interactive Code (course archived therefore audited and code posted to another repository)
+  2. Microsoft DEV330x: Introduction to Python: Creating Scalable, Robust, Interactive Code (course archived therefore audited and code posted to another repository in this Github account)
   3. Microsoft DEV262x: Logic and Computational Thinking
   4. Microsoft DEV274x: Introduction to Python: Fundamentals
   5. Microsoft DEV236x: Introduction to Python: Absolute Beginner

@@ -1,6 +1,9 @@
 # Certificates
 Certificates completed with Coursera, edX, Google, Lynda.  The certificate titles (or general groupings) are listed below with direct links to certificates hosted on course provider sites.
 
+Amazon Web Services
+  1. 2022 AWS Certified Cloud Practiotioner   @    https://aws.amazon.com/verification    Validation Number: 2YT3BCG262V4139G
+
 Udemy
   1. 2021 Python for Machine Learning & Data Science Masterclass (44 hours)   @    https://www.udemy.com/certificate/UC-b0ca04d0-55c5-4694-b518-9aa4cff501ff/
 

@@ -1,5 +1,5 @@
 # Certificates
-Certificates completed with Coursera, edX, Google, Lynda.  The certificate titles (or general groupings) are listed below with direct links to certificates hosted on course provider sites.
+Certificates completed with AWS, Udemy, Coursera, edX, Google, & Lynda.  The certificate titles (or general groupings) are listed below with direct links to certificates hosted on course provider sites.  PDFs are included in this folder in case provider sites are not available.
 
 Amazon Web Services
   1. 2022 AWS Certified Cloud Practiotioner   @    https://aws.amazon.com/verification    Validation Number: 2YT3BCG262V4139G
